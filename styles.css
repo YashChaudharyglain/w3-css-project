@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navb{
+    left: 30px;
+    top: 1px;
+    position: absolute;
+    width: 550px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.img{
+    height: 600px;
+    width: 100%;
+    background-image: url(https://www.w3schools.com/w3images/parallax1.jpg);
+    background-position: center;
+}
+
+.webLogo{
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+    width: 330px;
+    background-color: darkslategray;
+    left: 628px;
+    top: 230px;
+    padding-left: 9px;
+}
+
+.anc{
+    text-decoration: none;
+}
+    
+.abt{
+    position: absolute;
+    left: 670px;
+    top: 650px;
+}
+.pht{
+    position: absolute;
+    left: 672px;
+    top: 700px;
+}
+
+.phr{
+    position: absolute;
+    width:50%;
+    top:740px ;
+    left: 372px;
+}
+
+.main2{
+    width: 700px;
+    position: absolute;
+    top:925px;
+}
+.name{
+    position: absolute;
+    left: 390px;
+    
+}
+.img1{
+    background-image: url(https://www.w3schools.com/w3images/avatar_hat.jpg);
+    background-position: center;
+    width: 300px;
+    height: 400px;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 275px;
+}
+.phname{
+    width: 900px;
+    
+}
+.txxt{
+    position: absolute;
+    top: 5px;
+    left: 700px;
+   width: 300px;
+}
+.main3{
+    width:1000px;
+    position: absolute;
+    top: 1400px;
+}
+.txxt1{
+    position: absolute;
+    left: 700px;
+}
+.photography{
+    position: absolute;
+    top: 60px;
+    left: 300px;
+}
+.white{
+    width:1000px;
+    background-color: gray;
+    height: 40px;
+}
+.black{
+
+ width:880px;
+    background-color:black;
+    height: 40px;
+    
+}
+.txxt2{
+    color: white;
+    position: absolute;
+    left: 460px;
+    top: 50%;
+}
+
+.percenmain{
+    width: 100px;
+    height: 400px;
+}
+
+.black{
+
+    width:840px;
+       background-color:black;
+       height: 40px;
+       
+   }
